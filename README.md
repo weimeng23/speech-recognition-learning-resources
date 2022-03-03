@@ -36,9 +36,9 @@ This repo contains several learning resources for speech recognition, including 
 
 ## Papers
 
-- **HMM**: Rabiner L R. **A tutorial on hidden Markov models and selected applications in speech recognition**[J]. Proceedings of the IEEE, 1989, 77(2): 257-286.
-- **EM**: Bilmes J A. **A gentle tutorial of the EM algorithm and its application to parameter estimation for Gaussian mixture and hidden Markov models**[J]. International Computer Science Institute, 1998, 4(510): 126.
-- **CTC**: Graves A, Fernández S, Gomez F, et al. **Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks**[C]//Proceedings of the 23rd international conference on Machine learning. 2006: 369-376.
+- **HMM**: Rabiner L R. **A tutorial on hidden Markov models and selected applications in speech recognition**[J]. Proceedings of the IEEE, 1989, 77(2): 257-286. [[Paper]](https://courses.physics.illinois.edu/ece417/fa2017/rabiner89.pdf)
+- **EM**: Bilmes J A. **A gentle tutorial of the EM algorithm and its application to parameter estimation for Gaussian mixture and hidden Markov models**[J]. International Computer Science Institute, 1998, 4(510): 126. [[Paper]](http://www.leap.ee.iisc.ac.in/sriram/teaching/MLSP_18/refs/GMM_Bilmes.pdf)
+- **CTC**: Graves A, Fernández S, Gomez F, et al. **Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks**[C]//Proceedings of the 23rd international conference on Machine learning. 2006: 369-376. [[Paper]](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
 
 ## Tutorials
 
