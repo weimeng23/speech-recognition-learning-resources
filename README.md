@@ -15,20 +15,21 @@ This repo contains several learning resources for speech recognition, including 
 
 - Automatic Speech Recognition (ASR) 2018-2019 Lectures, School of Informatics, University of Edingburgh [[Website]](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
 - Speech recognition, EECS E6870 - Spring 2016, Columbia University [[Website]](https://www.ee.columbia.edu/~stanchen/spring16/e6870/outline.html)
-- 语音识别从入门到精通，2019，谢磊 [[Website]](https://www.shenlanxueyuan.com/course/381)
-- CS224N: Natural Language Processing with Deep Learning, Stanford [[Website]](http://web.stanford.edu/class/cs224n/) [[Youtube:Winter 2021]](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) [[Youtube:Winter 2017]](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&index=1&t=77s)
+- CS224N: Natural Language Processing with Deep Learning, Stanford [[Website]](http://web.stanford.edu/class/cs224n/) [[Video(Winter 2021)]](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) [[Video(Winter 2017)]](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&index=1&t=77s)
 - CS224S: Spoken Language Processing (Winter 2021), Stanford [[Website]](https://web.stanford.edu/class/cs224s/)
+- 语音识别从入门到精通，2019，谢磊 [[Website]](https://www.shenlanxueyuan.com/course/381)
 
 ## Books
 
-- **Fundamentals of speech recognition**, Lawrence Rabiner, Being-Hwang Juang , 1993 [[Book]](book\Fundamentals of speech recognition.pdf)
-- **Spoken language processing**: A guide to theory, algorithm, and system levelopment,  xuedong Huang, Alex acero, hsiao-wuen Hon, 2001 [[Book]](book\Spoken Language Processing_ A Guide to Theory, Algorithm, and System Development [Huang, Acero & Hon 2001-05-05].pdf)
-- **Speech and Language Processing**: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition, Daniel Jurafsky & James H. Martin [[Website]](https://web.stanford.edu/~jurafsky/slp3/) [[Book 3rd Ed]](book\stanford_slp3.pdf)
-- **Automatic speech recognition**: A Deep Learning Approach, Dong Yu and Li Deng, Springer, 2014 [[Book]](book\yu2015.pdf)
-- **Foundations of Statistical Natural Language Processing**, Chris Manning and Hinrich Schütze [[Website]](https://nlp.stanford.edu/fsnlp/) [[Book]](book\Foundations_Of_Statistical_Natural_Language_Processing.pdf)
+- **Fundamentals of speech recognition**, Lawrence Rabiner, Being-Hwang Juang , 1993 [[Book]](book/Fundamentals_of_speech_recognition_1993.pdf)
+- **Spoken language processing**: A guide to theory, algorithm, and system levelopment,  xuedong Huang, Alex acero, hsiao-wuen Hon, 2001 [[Book]](book/Spoken_Language_Processing_2001.pdf)
+- **Speech and Language Processing**: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition, Daniel Jurafsky & James H. Martin [[Website]](https://web.stanford.edu/~jurafsky/slp3/) [[Book 3rd Ed]](book/stanford_slp3.pdf)
+- **Automatic speech recognition**: A Deep Learning Approach, Dong Yu and Li Deng, Springer, 2014 [[Book]](book/automatic_speech_recognition_yu2015.pdf)
+- **Foundations of Statistical Natural Language Processing**, Chris Manning and Hinrich Schütze, 1999 [[Website]](https://nlp.stanford.edu/fsnlp/) [[Book]](book/foundations_Of_Natural_Language_Processing_1999.pdf)
 - 《解析深度学习：语音识别实践》，俞栋，邓力，电子工业出版社
 - 《Kaldi 语音识别实战》，陈果果，电子工业出版社
 - 《语音识别：原理与应用》，洪青阳，电子工业出版社
+- 《语音识别基本法》，汤志远，电子工业出版社
 - 《统计学习方法》李航，清华大学出版社
 - 《语音信号处理》韩继庆，清华大学出版社
 - 《语音信号处理》赵力，机械工业出版社
