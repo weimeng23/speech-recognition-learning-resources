@@ -1,6 +1,6 @@
 # Speech Recognition Learning Resources
 
-This repo contains several learning resources for speech recognition, including courses, books, tutorials, papers and toolkits.
+This repo contains several learning resources for speech recognition, including courses, books, tutorials, papers and toolkits.（continuously updating）
 
 ## Table of contens
 - [Courses](#Courses)
