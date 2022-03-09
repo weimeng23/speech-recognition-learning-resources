@@ -18,6 +18,7 @@ This repo contains several learning resources for speech recognition, including 
 - CS224N: Natural Language Processing with Deep Learning, Stanford [[Website]](http://web.stanford.edu/class/cs224n/) [[Video(Winter 2021)]](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) [[Video(Winter 2017)]](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&index=1&t=77s)
 - CS224S: Spoken Language Processing (Winter 2021), Stanford [[Website]](https://web.stanford.edu/class/cs224s/)
 - 语音识别从入门到精通，2019，谢磊 [[Website]](https://www.shenlanxueyuan.com/course/381)
+- DEEP LEARNING FOR HUMAN LANGUAGE PROCESSING, 2020 SPRING, Hung-yi Lee [[Website]](https://speech.ee.ntu.edu.tw/~hylee/dlhlp/2020-spring.php) [[Video(Spring 2020)]](https://www.youtube.com/playlist?list=PLJV_el3uVTsO07RpBYFsXg-bN5Lu0nhdG)
 
 ## Books
 
