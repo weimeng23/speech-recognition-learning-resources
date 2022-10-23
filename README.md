@@ -50,6 +50,11 @@ This repo contains several learning resources for speech recognition, including 
 ## Toolkits
 
 - **kaldi** [[Github]](https://github.com/kaldi-asr/kaldi) [[Doc]](http://kaldi-asr.org/doc/)
+- **k2-fsa** [[Github]]([k2-fsa (github.com)](https://github.com/k2-fsa))
+  - **k2**: FSA/FST algorithms, differentiable, with PyTorch compatibility. [[Github]](https://github.com/k2-fsa/k2) [[Doc]](https://k2-fsa.github.io/k2) 
+  - **icefall** [[Github]](https://github.com/k2-fsa/icefall) [[Doc]](https://k2-fsa.github.io/icefall/)
+  - **sherpa** [[Github]](https://github.com/k2-fsa/sherpa) [[Doc]](https://k2-fsa.github.io/icefall/)
+  - **~~snowfall(deprecated)~~** [[Github]](https://github.com/k2-fsa/snowfall)
 - **espnet** [[Github]](https://github.com/espnet/espnet)
   - Watanabe S, Hori T, Karita S, et al. [Espnet: End-to-end speech processing toolkit](https://arxiv.org/abs/1804.00015)[J]. arXiv preprint arXiv:1804.00015, 2018.
 - **wenet** [[Github]](https://github.com/wenet-e2e/wenet)
