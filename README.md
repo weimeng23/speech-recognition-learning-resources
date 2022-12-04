@@ -49,11 +49,14 @@ This repo contains several learning resources for speech recognition, including 
 
 ## Toolkits
 
+listed in no particular order
+
 - **kaldi** [[Github]](https://github.com/kaldi-asr/kaldi) [[Doc]](http://kaldi-asr.org/doc/)
-- **k2-fsa** [[Github]](https://github.com/k2-fsa)
+- **next-gen Kaldi** [[Github]](https://github.com/k2-fsa)
   - **k2**: FSA/FST algorithms, differentiable, with PyTorch compatibility. [[Github]](https://github.com/k2-fsa/k2) [[Doc]](https://k2-fsa.github.io/k2) 
   - **icefall**: Speech recognition recipes using k2. [[Github]](https://github.com/k2-fsa/icefall) [[Doc]](https://k2-fsa.github.io/icefall/)
   - **sherpa**: Streaming and non-streaming ASR server for next-gen Kaldi. [[Github]](https://github.com/k2-fsa/sherpa) [[Doc]](https://k2-fsa.github.io/sherpa/)
+  - **lhotse**: Tools for handling speech data in machine learning projects. [[Github]](https://github.com/lhotse-speech/lhotse) [[Doc]](https://lhotse.readthedocs.io/en/latest/)
   - **~~snowfall(deprecated)~~** [[Github]](https://github.com/k2-fsa/snowfall)
 - **espnet** [[Github]](https://github.com/espnet/espnet)
   - Watanabe S, Hori T, Karita S, et al. [Espnet: End-to-end speech processing toolkit](https://arxiv.org/abs/1804.00015)[J]. arXiv preprint arXiv:1804.00015, 2018.
@@ -61,6 +64,11 @@ This repo contains several learning resources for speech recognition, including 
   - Yao Z, Wu D, Wang X, et al. [Wenet: Production oriented streaming and non-streaming end-to-end speech recognition toolkit](https://arxiv.org/abs/2102.01547)[J]. arXiv preprint arXiv:2102.01547, 2021.
   - Zhang B, Wu D, Yao Z, et al. [Unified streaming and non-streaming two-pass end-to-end model for speech recognition](https://arxiv.org/abs/2012.05481)[J]. arXiv preprint arXiv:2012.05481, 2020.
   - Wu D, Zhang B, Yang C, et al. [U2++: Unified two-pass bidirectional end-to-end model for speech recognition](https://arxiv.org/abs/2106.05642)[J]. arXiv preprint arXiv:2106.05642, 2021.
+- NeMo
+- Fairseq
 - **eesen** [[Github]](https://github.com/srvk/eesen)
   - Miao Y, Gowayyed M, Metze F. [EESEN: End-to-end speech recognition using deep RNN models and WFST-based decoding](https://arxiv.org/abs/1507.08240)[C]//2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU). IEEE, 2015: 167-174.
 - **warp_ctc** [[Github]](https://github.com/baidu-research/warp-ctc)
+- htk
+- sphinx 
+
