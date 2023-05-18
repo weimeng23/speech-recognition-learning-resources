@@ -13,7 +13,7 @@ This repo contains several learning resources for speech recognition, including 
 
 ## Courses
 
-- Automatic Speech Recognition (ASR) 2018-2019 Lectures, School of Informatics, University of Edingburgh [[Website]](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
+- (Recommended) Automatic Speech Recognition (ASR) 2018-2019 Lectures, School of Informatics, University of Edingburgh [[Website]](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2019.html)
 - Speech recognition, EECS E6870 - Spring 2016, Columbia University [[Website]](https://www.ee.columbia.edu/~stanchen/spring16/e6870/outline.html)
 - CS224N: Natural Language Processing with Deep Learning, Stanford [[Website]](http://web.stanford.edu/class/cs224n/) [[Video(Winter 2021)]](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) [[Video(Winter 2017)]](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&index=1&t=77s)
 - CS224S: Spoken Language Processing (Winter 2021), Stanford [[Website]](https://web.stanford.edu/class/cs224s/)
