@@ -3,13 +3,12 @@
 This repo contains several learning resources for speech recognition, including courses, books, tutorials, papers and toolkits.（continuously updating）
 
 ## Table of contens
+
 - [Courses](#Courses)
 - [Books](#Books)
 - [Papers](#Papers)
 - [Tutorials](#Tutorials)
 - [Toolkits](#Toolkits)
-
-
 
 ## Courses
 
@@ -20,7 +19,6 @@ This repo contains several learning resources for speech recognition, including 
 - 语音识别从入门到精通，2019，谢磊 [[Website]](https://www.shenlanxueyuan.com/course/381)
 - DLHLP: DEEP LEARNING FOR HUMAN LANGUAGE PROCESSING, 2020 SPRING, Hung-yi Lee [[Website]](https://speech.ee.ntu.edu.tw/~hylee/dlhlp/2020-spring.php) [[Video(Spring 2020)]](https://www.youtube.com/playlist?list=PLJV_el3uVTsO07RpBYFsXg-bN5Lu0nhdG)
 - 數位語音處理概論，国立台湾大学，李琳山 [[Website]](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S204)
-
 
 ## Books
 
@@ -64,11 +62,16 @@ listed in no particular order
   - Yao Z, Wu D, Wang X, et al. [Wenet: Production oriented streaming and non-streaming end-to-end speech recognition toolkit](https://arxiv.org/abs/2102.01547)[J]. arXiv preprint arXiv:2102.01547, 2021.
   - Zhang B, Wu D, Yao Z, et al. [Unified streaming and non-streaming two-pass end-to-end model for speech recognition](https://arxiv.org/abs/2012.05481)[J]. arXiv preprint arXiv:2012.05481, 2020.
   - Wu D, Zhang B, Yang C, et al. [U2++: Unified two-pass bidirectional end-to-end model for speech recognition](https://arxiv.org/abs/2106.05642)[J]. arXiv preprint arXiv:2106.05642, 2021.
-- NeMo
-- Fairseq
+- **NeMo** [[Github]](https://github.com/NVIDIA/NeMo) [[Doc]](https://nvidia.github.io/NeMo/)
+- **Fairseq** [[Github]](<https://github.com/facebookresearch/fairseq>) [[Doc]](https://fairseq.readthedocs.io/)
+  - Fairseq is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks.
+- **speechbrain** [[Github]](https://github.com/speechbrain/speechbrain) [[Doc]](https://speechbrain.github.io/)
+  - SpeechBrain is an open-source and all-in-one conversational AI toolkit based on PyTorch.
+- **paddlespeech** [[Github]](https://github.com/PaddlePaddle/PaddleSpeech) [[Doc]](https://paddlespeech.readthedocs.io/)
+  - PaddleSpeech is an open-source toolkit on PaddlePaddle platform for a variety of critical tasks in speech and audio, with the state-of-art and influential models.
 - **eesen** [[Github]](https://github.com/srvk/eesen)
   - Miao Y, Gowayyed M, Metze F. [EESEN: End-to-end speech recognition using deep RNN models and WFST-based decoding](https://arxiv.org/abs/1507.08240)[C]//2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU). IEEE, 2015: 167-174.
 - **warp_ctc** [[Github]](https://github.com/baidu-research/warp-ctc)
-- htk
-- sphinx 
-
+  - A fast parallel implementation of CTC, on both CPU and GPU.
+- **htk**
+- **sphinx**
