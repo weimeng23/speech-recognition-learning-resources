@@ -16,8 +16,8 @@ This repo contains several learning resources for speech recognition, including 
 - Speech recognition, EECS E6870 - Spring 2016, Columbia University [[Website]](https://www.ee.columbia.edu/~stanchen/spring16/e6870/outline.html)
 - CS224N: Natural Language Processing with Deep Learning, Stanford [[Website]](http://web.stanford.edu/class/cs224n/) [[Video(Winter 2021)]](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) [[Video(Winter 2017)]](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&index=1&t=77s)
 - CS224S: Spoken Language Processing (Winter 2021), Stanford [[Website]](https://web.stanford.edu/class/cs224s/)
-- 语音识别从入门到精通，2019，谢磊 [[Website]](https://www.shenlanxueyuan.com/course/381)
 - DLHLP: DEEP LEARNING FOR HUMAN LANGUAGE PROCESSING, 2020 SPRING, Hung-yi Lee [[Website]](https://speech.ee.ntu.edu.tw/~hylee/dlhlp/2020-spring.php) [[Video(Spring 2020)]](https://www.youtube.com/playlist?list=PLJV_el3uVTsO07RpBYFsXg-bN5Lu0nhdG)
+- 语音识别从入门到精通，2019，谢磊 (NOT FREE) [[Website]](https://www.shenlanxueyuan.com/course/381)
 - 數位語音處理概論，国立台湾大学，李琳山 [[Website]](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S204)
 
 ## Books
@@ -56,7 +56,7 @@ listed in no particular order
   - **sherpa**: Streaming and non-streaming ASR server for next-gen Kaldi. [[Github]](https://github.com/k2-fsa/sherpa) [[Doc]](https://k2-fsa.github.io/sherpa/)
   - **lhotse**: Tools for handling speech data in machine learning projects. [[Github]](https://github.com/lhotse-speech/lhotse) [[Doc]](https://lhotse.readthedocs.io/en/latest/)
   - **~~snowfall(deprecated)~~** [[Github]](https://github.com/k2-fsa/snowfall)
-- **espnet** [[Github]](https://github.com/espnet/espnet)
+- **espnet/espnet2** [[Github]](https://github.com/espnet/espnet)
   - Watanabe S, Hori T, Karita S, et al. [Espnet: End-to-end speech processing toolkit](https://arxiv.org/abs/1804.00015)[J]. arXiv preprint arXiv:1804.00015, 2018.
 - **wenet** [[Github]](https://github.com/wenet-e2e/wenet)
   - Yao Z, Wu D, Wang X, et al. [Wenet: Production oriented streaming and non-streaming end-to-end speech recognition toolkit](https://arxiv.org/abs/2102.01547)[J]. arXiv preprint arXiv:2102.01547, 2021.
