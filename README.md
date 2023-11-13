@@ -54,6 +54,8 @@ listed in no particular order
   - **k2**: FSA/FST algorithms, differentiable, with PyTorch compatibility. [[Github]](https://github.com/k2-fsa/k2) [[Doc]](https://k2-fsa.github.io/k2) 
   - **icefall**: Speech recognition recipes using k2. [[Github]](https://github.com/k2-fsa/icefall) [[Doc]](https://k2-fsa.github.io/icefall/)
   - **sherpa**: Streaming and non-streaming ASR server for next-gen Kaldi. [[Github]](https://github.com/k2-fsa/sherpa) [[Doc]](https://k2-fsa.github.io/sherpa/)
+  - **sherpa-onnx**: Real-time speech recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go. [[Github]](https://github.com/k2-fsa/sherpa-onnx) [[Doc]](https://k2-fsa.github.io/sherpa/onnx/index.html)
+  - **sherpa-ncnn**: Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, etc. [[Github]](https://github.com/k2-fsa/sherpa-ncnn) [[Doc]](https://k2-fsa.github.io/sherpa/ncnn/index.html)
   - **lhotse**: Tools for handling speech data in machine learning projects. [[Github]](https://github.com/lhotse-speech/lhotse) [[Doc]](https://lhotse.readthedocs.io/en/latest/)
   - **~~snowfall(deprecated)~~** [[Github]](https://github.com/k2-fsa/snowfall)
 - **espnet/espnet2** [[Github]](https://github.com/espnet/espnet)
