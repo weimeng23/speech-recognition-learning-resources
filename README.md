@@ -62,6 +62,9 @@ listed in no particular order
   - **sherpa-ncnn**: Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, etc. [[Github]](https://github.com/k2-fsa/sherpa-ncnn) [[Doc]](https://k2-fsa.github.io/sherpa/ncnn/index.html)
   - **lhotse**: Tools for handling speech data in machine learning projects. [[Github]](https://github.com/lhotse-speech/lhotse) [[Doc]](https://lhotse.readthedocs.io/en/latest/)
   - **~~snowfall(deprecated)~~** [[Github]](https://github.com/k2-fsa/snowfall)
+- **FunASR** [[Github]](https://github.com/alibaba-damo-academy/FunASR) [[Doc]](https://alibaba-damo-academy.github.io/FunASR/en/index.html)
+  - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models.
+  - Gao, Z., Li, Z., Wang, J., Luo, H., Shi, X., Chen, M., ... & Zhang, S. (2023). [FunASR: A Fundamental End-to-End Speech Recognition Toolkit](https://arxiv.org/abs/2305.11013). *arXiv preprint arXiv:2305.11013*.
 - **espnet/espnet2** [[Github]](https://github.com/espnet/espnet)
   - Watanabe S, Hori T, Karita S, et al. [Espnet: End-to-end speech processing toolkit](https://arxiv.org/abs/1804.00015)[J]. arXiv preprint arXiv:1804.00015, 2018.
 - **wenet** [[Github]](https://github.com/wenet-e2e/wenet)
