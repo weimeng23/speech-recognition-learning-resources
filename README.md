@@ -22,7 +22,7 @@ This repo contains several learning resources for speech recognition, including 
 
 ## Books
 
-- **Fundamentals of speech recognition**, Lawrence Rabiner, Being-Hwang Juang , 1993 [[Book]](book/Fundamentals_of_speech_recognition_1993.pdf)
+- **Fundamentals of speech recognition**, Lawrence Rabiner, Being-Hwang Juang, 1993 [[Book]](book/Fundamentals_of_speech_recognition_1993.pdf)
 - **Spoken language processing**: A guide to theory, algorithm, and system levelopment,  xuedong Huang, Alex acero, hsiao-wuen Hon, 2001 [[Book]](book/Spoken_Language_Processing_2001.pdf)
 - **Speech and Language Processing**: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition, Daniel Jurafsky & James H. Martin [[Website]](https://web.stanford.edu/~jurafsky/slp3/) [[Book 3rd Ed]](book/stanford_slp3.pdf)
 - **Automatic speech recognition**: A Deep Learning Approach, Dong Yu and Li Deng, Springer, 2014 [[Book]](book/automatic_speech_recognition_yu2015.pdf)
@@ -43,7 +43,11 @@ This repo contains several learning resources for speech recognition, including 
 
 ## Tutorials
 
-- An Introduction to Weighted Automata in Machine Learning, Awni Hannun, 2021. [[PDF]](https://awnihannun.com/writing/automata_ml/automata_in_machine_learning.pdf)
+- **WFST**
+  - An Introduction to Weighted Automata in Machine Learning, Awni Hannun, 2021. [[PDF]](https://awnihannun.com/writing/automata_ml/automata_in_machine_learning.pdf)
+- **k2**
+  - Speech Recognition with Next-Generation Kaldi (K2, Lhotse, Icefall), Interspeech 2021. [[Video]](https://www.youtube.com/watch?v=y6CJLFQlmhc)
+  - Speech Recognition with Icefall + Lhotse, Interspeech 2023. [[Slides]](https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/mwiesne2_jh_edu/EYqRDl8cIr5BsVDxi1MOW5EBUpdqh10WFkzqixPIFM63hg?e=u3lrmL)
 
 ## Toolkits
 
