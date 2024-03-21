@@ -4,11 +4,11 @@ This repo contains several learning resources for speech recognition, including 
 
 ## Table of contens
 
-- [Courses](#Courses)
-- [Books](#Books)
-- [Papers](#Papers)
-- [Tutorials](#Tutorials)
-- [Toolkits](#Toolkits)
+- [Courses](#courses)
+- [Books](#books)
+- [Papers](#papers)
+- [Tutorials](#tutorials)
+- [Toolkits](#toolkits)
 
 ## Courses
 
@@ -17,6 +17,7 @@ This repo contains several learning resources for speech recognition, including 
 - CS224N: Natural Language Processing with Deep Learning, Stanford [[Website]](http://web.stanford.edu/class/cs224n/) [[Video(Winter 2021)]](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) [[Video(Winter 2017)]](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&index=1&t=77s)
 - CS224S: Spoken Language Processing (Winter 2021), Stanford [[Website]](https://web.stanford.edu/class/cs224s/)
 - DLHLP: DEEP LEARNING FOR HUMAN LANGUAGE PROCESSING, 2020 SPRING, Hung-yi Lee [[Website]](https://speech.ee.ntu.edu.tw/~hylee/dlhlp/2020-spring.php) [[Video(Spring 2020)]](https://www.youtube.com/playlist?list=PLJV_el3uVTsO07RpBYFsXg-bN5Lu0nhdG)
+- Microsoft DEV287x: Speech Recognition Systems, 2019 [[Website]](https://learning.edx.org/course/course-v1:Microsoft+DEV287x+2T2019/home)
 - 语音识别从入门到精通，2019，谢磊 (NOT FREE) [[Website]](https://www.shenlanxueyuan.com/course/381)
 - 數位語音處理概論，国立台湾大学，李琳山 [[Website]](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S204)
 
@@ -56,7 +57,7 @@ listed in no particular order
 
 - **kaldi** [[Github]](https://github.com/kaldi-asr/kaldi) [[Doc]](http://kaldi-asr.org/doc/)
 - **next-gen Kaldi** [[Github]](https://github.com/k2-fsa)
-  - **k2**: FSA/FST algorithms, differentiable, with PyTorch compatibility. [[Github]](https://github.com/k2-fsa/k2) [[Doc]](https://k2-fsa.github.io/k2) 
+  - **k2**: FSA/FST algorithms, differentiable, with PyTorch compatibility. [[Github]](https://github.com/k2-fsa/k2) [[Doc]](https://k2-fsa.github.io/k2)
   - **icefall**: Speech recognition recipes using k2. [[Github]](https://github.com/k2-fsa/icefall) [[Doc]](https://k2-fsa.github.io/icefall/)
   - **sherpa**: Streaming and non-streaming ASR server for next-gen Kaldi. [[Github]](https://github.com/k2-fsa/sherpa) [[Doc]](https://k2-fsa.github.io/sherpa/)
   - **sherpa-onnx**: Real-time speech recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go. [[Github]](https://github.com/k2-fsa/sherpa-onnx) [[Doc]](https://k2-fsa.github.io/sherpa/onnx/index.html)
@@ -67,11 +68,11 @@ listed in no particular order
   - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models.
   - Gao, Z., Li, Z., Wang, J., Luo, H., Shi, X., Chen, M., ... & Zhang, S. (2023). [FunASR: A Fundamental End-to-End Speech Recognition Toolkit](https://arxiv.org/abs/2305.11013). *arXiv preprint arXiv:2305.11013*.
 - **espnet/espnet2** [[Github]](https://github.com/espnet/espnet)
-  - Watanabe S, Hori T, Karita S, et al. [Espnet: End-to-end speech processing toolkit](https://arxiv.org/abs/1804.00015)[J]. arXiv preprint arXiv:1804.00015, 2018.
+  - Watanabe S, Hori T, Karita S, et al. [Espnet: End-to-end speech processing toolkit](https://arxiv.org/abs/1804.00015)\[J]. arXiv preprint arXiv:1804.00015, 2018.
 - **wenet** [[Github]](https://github.com/wenet-e2e/wenet)
-  - Yao Z, Wu D, Wang X, et al. [Wenet: Production oriented streaming and non-streaming end-to-end speech recognition toolkit](https://arxiv.org/abs/2102.01547)[J]. arXiv preprint arXiv:2102.01547, 2021.
-  - Zhang B, Wu D, Yao Z, et al. [Unified streaming and non-streaming two-pass end-to-end model for speech recognition](https://arxiv.org/abs/2012.05481)[J]. arXiv preprint arXiv:2012.05481, 2020.
-  - Wu D, Zhang B, Yang C, et al. [U2++: Unified two-pass bidirectional end-to-end model for speech recognition](https://arxiv.org/abs/2106.05642)[J]. arXiv preprint arXiv:2106.05642, 2021.
+  - Yao Z, Wu D, Wang X, et al. [Wenet: Production oriented streaming and non-streaming end-to-end speech recognition toolkit](https://arxiv.org/abs/2102.01547)\[J]. arXiv preprint arXiv:2102.01547, 2021.
+  - Zhang B, Wu D, Yao Z, et al. [Unified streaming and non-streaming two-pass end-to-end model for speech recognition](https://arxiv.org/abs/2012.05481)\[J]. arXiv preprint arXiv:2012.05481, 2020.
+  - Wu D, Zhang B, Yang C, et al. [U2++: Unified two-pass bidirectional end-to-end model for speech recognition](https://arxiv.org/abs/2106.05642)\[J]. arXiv preprint arXiv:2106.05642, 2021.
 - **NeMo** [[Github]](https://github.com/NVIDIA/NeMo) [[Doc]](https://nvidia.github.io/NeMo/)
 - **Fairseq** [[Github]](<https://github.com/facebookresearch/fairseq>) [[Doc]](https://fairseq.readthedocs.io/)
   - Fairseq is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks.
@@ -80,7 +81,7 @@ listed in no particular order
 - **paddlespeech** [[Github]](https://github.com/PaddlePaddle/PaddleSpeech) [[Doc]](https://paddlespeech.readthedocs.io/)
   - PaddleSpeech is an open-source toolkit on PaddlePaddle platform for a variety of critical tasks in speech and audio, with the state-of-art and influential models.
 - **eesen** [[Github]](https://github.com/srvk/eesen)
-  - Miao Y, Gowayyed M, Metze F. [EESEN: End-to-end speech recognition using deep RNN models and WFST-based decoding](https://arxiv.org/abs/1507.08240)[C]//2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU). IEEE, 2015: 167-174.
+  - Miao Y, Gowayyed M, Metze F. [EESEN: End-to-end speech recognition using deep RNN models and WFST-based decoding](https://arxiv.org/abs/1507.08240)\[C]//2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU). IEEE, 2015: 167-174.
 - **warp_ctc** [[Github]](https://github.com/baidu-research/warp-ctc)
   - A fast parallel implementation of CTC, on both CPU and GPU.
 - **htk**
