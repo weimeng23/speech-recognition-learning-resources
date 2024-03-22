@@ -74,13 +74,14 @@ listed in no particular order
   - Zhang B, Wu D, Yao Z, et al. [Unified streaming and non-streaming two-pass end-to-end model for speech recognition](https://arxiv.org/abs/2012.05481)\[J]. arXiv preprint arXiv:2012.05481, 2020.
   - Wu D, Zhang B, Yang C, et al. [U2++: Unified two-pass bidirectional end-to-end model for speech recognition](https://arxiv.org/abs/2106.05642)\[J]. arXiv preprint arXiv:2106.05642, 2021.
 - **NeMo** [[Github]](https://github.com/NVIDIA/NeMo) [[Doc]](https://nvidia.github.io/NeMo/)
+  - NVIDIA NeMo Framework is a generative AI framework built for researchers and pytorch developers working on large language models (LLMs), multimodal models (MM), automatic speech recognition (ASR), and text-to-speech synthesis (TTS).
 - **Fairseq** [[Github]](<https://github.com/facebookresearch/fairseq>) [[Doc]](https://fairseq.readthedocs.io/)
   - Fairseq is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks.
 - **speechbrain** [[Github]](https://github.com/speechbrain/speechbrain) [[Doc]](https://speechbrain.github.io/)
   - SpeechBrain is an open-source and all-in-one conversational AI toolkit based on PyTorch.
 - **paddlespeech** [[Github]](https://github.com/PaddlePaddle/PaddleSpeech) [[Doc]](https://paddlespeech.readthedocs.io/)
   - PaddleSpeech is an open-source toolkit on PaddlePaddle platform for a variety of critical tasks in speech and audio, with the state-of-art and influential models.
-- **eesen** [[Github]](https://github.com/srvk/eesen)
+- **eesen** ***R.I.P.*** [[Github]](https://github.com/srvk/eesen)
   - Miao Y, Gowayyed M, Metze F. [EESEN: End-to-end speech recognition using deep RNN models and WFST-based decoding](https://arxiv.org/abs/1507.08240)\[C]//2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU). IEEE, 2015: 167-174.
 - **warp_ctc** [[Github]](https://github.com/baidu-research/warp-ctc)
   - A fast parallel implementation of CTC, on both CPU and GPU.
