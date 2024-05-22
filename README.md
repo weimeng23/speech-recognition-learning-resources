@@ -28,6 +28,7 @@ This repo contains several learning resources for speech recognition, including 
 - **Speech and Language Processing**: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition, Daniel Jurafsky & James H. Martin [[Website]](https://web.stanford.edu/~jurafsky/slp3/) [[Book 3rd Ed]](book/stanford_slp3.pdf)
 - **Automatic speech recognition**: A Deep Learning Approach, Dong Yu and Li Deng, Springer, 2014 [[Book]](book/automatic_speech_recognition_yu2015.pdf)
 - **Foundations of Statistical Natural Language Processing**, Chris Manning and Hinrich Schütze, 1999 [[Website]](https://nlp.stanford.edu/fsnlp/) [[Book]](book/foundations_Of_Natural_Language_Processing_1999.pdf)
+- **Digital signal processing**: If you’d like to dive deeper into digital signal processing, check out the free [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html) book authored by Brian McFee, an Assistant Professor of Music Technology and Data Science at New York University and the principal maintainer of the librosa package. 
 - 《解析深度学习：语音识别实践》，俞栋，邓力，电子工业出版社
 - 《Kaldi 语音识别实战》，陈果果，电子工业出版社
 - 《语音识别：原理与应用》，洪青阳，电子工业出版社
@@ -41,6 +42,7 @@ This repo contains several learning resources for speech recognition, including 
 - **HMM**: Rabiner L R. **A tutorial on hidden Markov models and selected applications in speech recognition**[J]. Proceedings of the IEEE, 1989, 77(2): 257-286. [[Paper]](https://courses.physics.illinois.edu/ece417/fa2017/rabiner89.pdf)
 - **EM**: Bilmes J A. **A gentle tutorial of the EM algorithm and its application to parameter estimation for Gaussian mixture and hidden Markov models**[J]. International Computer Science Institute, 1998, 4(510): 126. [[Paper]](http://www.leap.ee.iisc.ac.in/sriram/teaching/MLSP_18/refs/GMM_Bilmes.pdf)
 - **CTC**: Graves A, Fernández S, Gomez F, et al. **Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks**[C]//Proceedings of the 23rd international conference on Machine learning. 2006: 369-376. [[Paper]](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
+- [Transformers in Speech Processing: A Survey](https://arxiv.org/abs/2303.11607).
 
 ## Tutorials
 
@@ -50,6 +52,7 @@ This repo contains several learning resources for speech recognition, including 
   - Speech Recognition with Next-Generation Kaldi (K2, Lhotse, Icefall), Interspeech 2021. [[Video]](https://www.youtube.com/watch?v=y6CJLFQlmhc)
   - Progress in ASR with Next-Gen Kaldi, BAAI 2022. [[Video]](https://www.youtube.com/watch?v=Q3gNj7XlArs) [[Slides]](https://docs.google.com/presentation/d/14-hKMamyLXPsmsxCl-b0mBxrOiEakSoQ/edit#slide=id.p1)
   - Speech Recognition with Icefall + Lhotse, Interspeech 2023. [[Slides]](https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/mwiesne2_jh_edu/EYqRDl8cIr5BsVDxi1MOW5EBUpdqh10WFkzqixPIFM63hg?e=u3lrmL)
+  - [Hugging Face Audio course](https://huggingface.co/learn/audio-course/chapter0/introduction).
 
 ## Toolkits
 
