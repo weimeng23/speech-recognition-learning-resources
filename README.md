@@ -49,7 +49,7 @@ This repo contains several learning resources for speech recognition, including 
 - **k2**
   - Speech Recognition with Next-Generation Kaldi (K2, Lhotse, Icefall), Interspeech 2021. [[Video]](https://www.youtube.com/watch?v=y6CJLFQlmhc)
   - Progress in ASR with Next-Gen Kaldi, BAAI 2022. [[Video]](https://www.youtube.com/watch?v=Q3gNj7XlArs) [[Slides]](https://docs.google.com/presentation/d/14-hKMamyLXPsmsxCl-b0mBxrOiEakSoQ/edit#slide=id.p1)
-  - Speech Recognition with Icefall + Lhotse, Interspeech 2023. [[Slides]](https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/mwiesne2_jh_edu/EYqRDl8cIr5BsVDxi1MOW5EBUpdqh10WFkzqixPIFM63hg?e=u3lrmL)
+  - Speech Recognition with Icefall + Lhotse, Interspeech 2023. [[Slides]](https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/mwiesne2_jh_edu/EYqRDl8cIr5BsVDxi1MOW5EBUpdqh10WFkzqixPIFM63hg?e=u3lrmL) Tutorial notebook [![Interspeech 2023 Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1obZjUuVwks3A4oFX3gXFtPOM2LtrPQfL?usp=sharing)
 
 ## Toolkits
 
