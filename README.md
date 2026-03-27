@@ -1,14 +1,17 @@
 # Speech Recognition Learning Resources
 
-This repo contains several learning resources for speech recognition, including courses, books, tutorials, papers and toolkits.（continuously updating）
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Table of contens
+A curated list of speech recognition learning resources, models, and toolkits. (continuously updating)
+
+## Table of Contents
 
 - [Courses](#courses)
 - [Books](#books)
-- [Papers](#papers)
+- [Models](#models)
 - [Tutorials](#tutorials)
 - [Toolkits](#toolkits)
+- [Papers](#papers)
 
 ## Courses
 
