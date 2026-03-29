@@ -39,11 +39,60 @@ A curated list of speech recognition learning resources, models, and toolkits. (
 - 《语音信号处理》韩继庆，清华大学出版社
 - 《语音信号处理》赵力，机械工业出版社
 
-## Papers
+## Models
 
-- **HMM**: Rabiner L R. **A tutorial on hidden Markov models and selected applications in speech recognition**[J]. Proceedings of the IEEE, 1989, 77(2): 257-286. [[Paper]](https://courses.physics.illinois.edu/ece417/fa2017/rabiner89.pdf)
-- **EM**: Bilmes J A. **A gentle tutorial of the EM algorithm and its application to parameter estimation for Gaussian mixture and hidden Markov models**[J]. International Computer Science Institute, 1998, 4(510): 126. [[Paper]](http://www.leap.ee.iisc.ac.in/sriram/teaching/MLSP_18/refs/GMM_Bilmes.pdf)
-- **CTC**: Graves A, Fernández S, Gomez F, et al. **Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks**[C]//Proceedings of the 23rd international conference on Machine learning. 2006: 369-376. [[Paper]](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
+### Pre-trained / Foundation Models
+
+- **Moonshine** (2024) - Tiny yet powerful ASR models optimized for edge devices. Useful Sensors.
+  [[Paper]](https://arxiv.org/abs/2410.15608) [[Code]](https://github.com/usefulsensors/moonshine)
+- **USM** (2023) - Universal Speech Model scaling ASR to 100+ languages with 12M hours of speech. Google.
+  [[Paper]](https://arxiv.org/abs/2303.01037)
+- **SeamlessM4T** (2023) - Massively multilingual & multimodal machine translation supporting speech and text. Meta.
+  [[Paper]](https://arxiv.org/abs/2308.11596) [[Code]](https://github.com/facebookresearch/seamless_communication)
+- **Whisper** (2022) - Large-scale weakly supervised speech recognition trained on 680k hours of web data. OpenAI.
+  [[Paper]](https://arxiv.org/abs/2212.04356) [[Code]](https://github.com/openai/whisper)
+- **WavLM** (2022) - Pre-trained model for full stack speech processing tasks. Microsoft.
+  [[Paper]](https://arxiv.org/abs/2110.13900) [[Code]](https://github.com/microsoft/unilm/tree/master/wavlm)
+- **HuBERT** (2021) - Self-supervised speech representation learning by masked prediction. Meta.
+  [[Paper]](https://arxiv.org/abs/2106.07447) [[Code]](https://github.com/facebookresearch/fairseq/tree/main/examples/hubert)
+- **wav2vec 2.0** (2020) - Self-supervised learning framework for speech representations. Meta.
+  [[Paper]](https://arxiv.org/abs/2006.11477) [[Code]](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec)
+- **wav2vec** (2019) - Unsupervised pre-training for speech recognition. Meta.
+  [[Paper]](https://arxiv.org/abs/1904.05862) [[Code]](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec)
+
+### End-to-End Models
+
+- **Canary** (2024) - Multilingual ASR and translation model with FastConformer encoder and Transformer decoder, supporting 25 languages. NVIDIA.
+  [[Code]](https://github.com/NVIDIA/NeMo)
+- **FastConformer / Parakeet** (2023) - Optimized Conformer variant approximately 2.4x faster. Parakeet is a family of ASR models built on FastConformer with CTC/RNN-T/TDT decoders. NVIDIA.
+  [[Paper - FastConformer]](https://arxiv.org/abs/2305.05084) [[Paper - TDT]](https://arxiv.org/abs/2304.06795) [[Code]](https://github.com/NVIDIA/NeMo)
+- **Zipformer** (2023) - Efficient Conformer variant with a reweighted attention mechanism for ASR. Next-gen Kaldi.
+  [[Paper]](https://arxiv.org/abs/2310.11230) [[Code]](https://github.com/k2-fsa/icefall)
+- **E-Branchformer** (2022) - Enhanced Branchformer for speech recognition. CMU & JHU.
+  [[Paper]](https://arxiv.org/abs/2210.00077) [[Code]](https://github.com/espnet/espnet)
+- **Branchformer** (2022) - Parallel branch architecture combining self-attention and convolution. NTT.
+  [[Paper]](https://arxiv.org/abs/2207.02971) [[Code]](https://github.com/espnet/espnet)
+- **Conformer** (2020) - Convolution-augmented Transformer for speech recognition. Google.
+  [[Paper]](https://arxiv.org/abs/2005.08100)
+- **ContextNet** (2020) - CNN-RNN-Transducer model with global context for streaming ASR. Google.
+  [[Paper]](https://arxiv.org/abs/2005.03191)
+- **Transformer-Transducer** (2020) - Transformer-based model for streaming end-to-end ASR. Facebook.
+  [[Paper]](https://arxiv.org/abs/2002.02562)
+- **LAS / Listen, Attend and Spell** (2015) - Attention-based sequence-to-sequence model for ASR. Google.
+  [[Paper]](https://arxiv.org/abs/1508.01211)
+- **Deep Speech 2** (2015) - End-to-end speech recognition in English and Mandarin. Baidu.
+  [[Paper]](https://arxiv.org/abs/1512.02595) [[Code]](https://github.com/PaddlePaddle/DeepSpeech)
+- **Deep Speech** (2014) - Scaling up end-to-end speech recognition. Baidu.
+  [[Paper]](https://arxiv.org/abs/1412.5567)
+- **RNN-Transducer** (2012) - Sequence transduction with recurrent neural networks. Graves.
+  [[Paper]](https://arxiv.org/abs/1211.3711)
+
+### Traditional Models
+
+- **DNN-HMM** (2012) - Deep neural networks for acoustic modeling in speech recognition. Hinton et al.
+  [[Paper]](https://ieeexplore.ieee.org/document/6296526)
+- **GMM-HMM** (2007) - The application of hidden Markov models in speech recognition. Gales & Young.
+  [[Paper]](https://scholar.archive.org/work/qp3242x2ojag5jzsvw4l35zwa4/access/wayback/http://svr-www.eng.cam.ac.uk/~sjy/papers/gayo07.pdf)
 
 ## Tutorials
 
@@ -90,3 +139,32 @@ listed in no particular order
   - A fast parallel implementation of CTC, on both CPU and GPU.
 - **htk**
 - **sphinx**
+
+## Papers
+
+### Survey / Overview
+
+- Prabhavalkar R, Horiguchi S, Jain A, et al. **End-to-end speech recognition: A survey**[J]. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024. [[Paper]](https://arxiv.org/abs/2303.03329)
+- Li J, Deng L, Haeb-Umbach R, et al. **Robust automatic speech recognition: A bridge to practical applications**[M]. Academic Press, 2015.
+
+### Pre-training & Self-supervised Learning
+
+- Chen S, Wang C, Chen Z, et al. **WavLM: Large-scale self-supervised pre-training for full stack speech processing**[J]. IEEE Journal of Selected Topics in Signal Processing, 2022. [[Paper]](https://arxiv.org/abs/2110.13900)
+- Hsu W N, Bolte B, Tsai Y H, et al. **HuBERT: Self-supervised speech representation learning by masked prediction of hidden units**[J]. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2021. [[Paper]](https://arxiv.org/abs/2106.07447)
+- Baevski A, Zhou Y, Mohamed A, et al. **wav2vec 2.0: A framework for self-supervised learning of speech representations**[C]//NeurIPS. 2020. [[Paper]](https://arxiv.org/abs/2006.11477)
+
+### End-to-End ASR
+
+- Gulati A, Qin J, Chiu C C, et al. **Conformer: Convolution-augmented transformer for speech recognition**[C]//Interspeech. 2020. [[Paper]](https://arxiv.org/abs/2005.08100)
+- Chan W, Jaitly N, Le Q V, et al. **Listen, attend and spell: A neural network that learns to translate speech to text**[C]//ICASSP. 2016. [[Paper]](https://arxiv.org/abs/1508.01211)
+- Amodei D, Ananthanarayanan S, Anubhai R, et al. **Deep Speech 2: End-to-end speech recognition in English and Mandarin**[C]//ICML. 2016. [[Paper]](https://arxiv.org/abs/1512.02595)
+- Graves A. **Sequence transduction with recurrent neural networks**[J]. arXiv preprint arXiv:1211.3711, 2012. [[Paper]](https://arxiv.org/abs/1211.3711)
+- **CTC**: Graves A, Fernández S, Gomez F, et al. **Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks**[C]//Proceedings of the 23rd international conference on Machine learning. 2006: 369-376. [[Paper]](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
+
+### Traditional / Foundational
+
+- **Chain/LF-MMI**: Povey D, Peddinti V, Galvez D, et al. **Purely sequence-trained neural networks for ASR based on lattice-free MMI**[C]//Interspeech. 2016: 2751-2755. [[Paper]](https://www.danielpovey.com/files/2016_interspeech_mmi.pdf)
+- **TDNN**: Peddinti V, Povey D, Khudanpur S. **A time delay neural network architecture for efficient modeling of long temporal contexts**[C]//Interspeech. 2015: 3214-3218. [[Paper]](https://www.danielpovey.com/files/2015_interspeech_multisplice.pdf)
+- **DNN-HMM**: Hinton G, Deng L, Yu D, et al. **Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups**[J]. IEEE Signal Processing Magazine, 2012, 29(6): 82-97. [[Paper]](https://ieeexplore.ieee.org/document/6296526)
+- **EM**: Bilmes J A. **A gentle tutorial of the EM algorithm and its application to parameter estimation for Gaussian mixture and hidden Markov models**[J]. International Computer Science Institute, 1998, 4(510): 126. [[Paper]](http://www.leap.ee.iisc.ac.in/sriram/teaching/MLSP_18/refs/GMM_Bilmes.pdf)
+- **HMM**: Rabiner L R. **A tutorial on hidden Markov models and selected applications in speech recognition**[J]. Proceedings of the IEEE, 1989, 77(2): 257-286. [[Paper]](https://courses.physics.illinois.edu/ece417/fa2017/rabiner89.pdf)
