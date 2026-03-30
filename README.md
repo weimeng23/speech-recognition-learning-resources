@@ -43,6 +43,8 @@ A curated list of speech recognition learning resources, models, and toolkits. (
 
 ### Pre-trained / Foundation Models
 
+- **FireRedASR2S** (2026) - All-in-one ASR system integrating VAD, language identification, and punctuation. Xiaohongshu.
+  [[Paper]](https://arxiv.org/abs/2603.10420) [[Code]](https://github.com/FireRedTeam/FireRedASR2S)
 - **Qwen3-ASR** (2025) - Speech recognition model supporting 52 languages/dialects with streaming and non-streaming inference. Alibaba.
   [[Paper]](https://arxiv.org/abs/2601.21337) [[Code]](https://github.com/QwenLM/Qwen3-ASR)
 - **Fun-ASR** (2025) - End-to-end speech recognition large model by Tongyi Lab, providing Fun-ASR-Nano and Fun-ASR-MLT-Nano. Alibaba.
@@ -74,6 +76,8 @@ A curated list of speech recognition learning resources, models, and toolkits. (
 
 - **Canary** (2024) - Multilingual ASR and translation model with FastConformer encoder and Transformer decoder, supporting 25 languages. NVIDIA.
   [[Code]](https://github.com/NVIDIA/NeMo)
+- **Paraformer-v2** (2024) - Improved non-autoregressive transformer for noise-robust speech recognition. Alibaba.
+  [[Paper]](https://arxiv.org/abs/2409.17746) [[Unofficial Code]](https://github.com/NiniAndy/Paraformer-V2)
 - **FastConformer / Parakeet** (2023) - Optimized Conformer variant approximately 2.4x faster. Parakeet is a family of ASR models built on FastConformer with CTC/RNN-T/TDT decoders. NVIDIA.
   [[Paper - FastConformer]](https://arxiv.org/abs/2305.05084) [[Paper - TDT]](https://arxiv.org/abs/2304.06795) [[Code]](https://github.com/NVIDIA/NeMo)
 - **Zipformer** (2023) - Efficient Conformer variant with a reweighted attention mechanism for ASR. Next-gen Kaldi.
