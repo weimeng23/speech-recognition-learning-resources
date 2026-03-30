@@ -43,6 +43,16 @@ A curated list of speech recognition learning resources, models, and toolkits. (
 
 ### Pre-trained / Foundation Models
 
+- **Qwen3-ASR** (2025) - Speech recognition model supporting 52 languages/dialects with streaming and non-streaming inference. Alibaba.
+  [[Paper]](https://arxiv.org/abs/2601.21337) [[Code]](https://github.com/QwenLM/Qwen3-ASR)
+- **Fun-ASR** (2025) - End-to-end speech recognition large model by Tongyi Lab, providing Fun-ASR-Nano and Fun-ASR-MLT-Nano. Alibaba.
+  [[Paper]](https://arxiv.org/abs/2509.12508) [[Code]](https://github.com/FunAudioLLM/Fun-ASR)
+- **FireRedASR** (2025) - Open-source industrial-grade Mandarin speech recognition models. Xiaohongshu.
+  [[Paper]](https://arxiv.org/abs/2501.14350) [[Code]](https://github.com/FireRedTeam/FireRedASR)
+- **Qwen2-Audio** (2024) - Large audio-language model supporting ASR, translation, and audio understanding. Alibaba.
+  [[Paper]](https://arxiv.org/abs/2407.10759) [[Code]](https://github.com/QwenLM/Qwen2-Audio)
+- **SenseVoice** (2024) - Multilingual speech recognition with emotion and audio event detection. Alibaba.
+  [[Paper]](https://arxiv.org/abs/2407.04051) [[Code]](https://github.com/FunAudioLLM/SenseVoice)
 - **Moonshine** (2024) - Tiny yet powerful ASR models optimized for edge devices. Useful Sensors.
   [[Paper]](https://arxiv.org/abs/2410.15608) [[Code]](https://github.com/usefulsensors/moonshine)
 - **USM** (2023) - Universal Speech Model scaling ASR to 100+ languages with 12M hours of speech. Google.
@@ -68,6 +78,8 @@ A curated list of speech recognition learning resources, models, and toolkits. (
   [[Paper - FastConformer]](https://arxiv.org/abs/2305.05084) [[Paper - TDT]](https://arxiv.org/abs/2304.06795) [[Code]](https://github.com/NVIDIA/NeMo)
 - **Zipformer** (2023) - Efficient Conformer variant with a reweighted attention mechanism for ASR. Next-gen Kaldi.
   [[Paper]](https://arxiv.org/abs/2310.11230) [[Code]](https://github.com/k2-fsa/icefall)
+- **Paraformer** (2022) - Fast and accurate non-autoregressive end-to-end speech recognition with parallel Transformer. Alibaba.
+  [[Paper]](https://arxiv.org/abs/2206.08317) [[Code]](https://github.com/modelscope/FunASR)
 - **E-Branchformer** (2022) - Enhanced Branchformer for speech recognition. CMU & JHU.
   [[Paper]](https://arxiv.org/abs/2210.00077) [[Code]](https://github.com/espnet/espnet)
 - **Branchformer** (2022) - Parallel branch architecture combining self-attention and convolution. NTT.
@@ -116,7 +128,7 @@ listed in no particular order
   - **sherpa-ncnn**: Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, etc. [[Github]](https://github.com/k2-fsa/sherpa-ncnn) [[Doc]](https://k2-fsa.github.io/sherpa/ncnn/index.html)
   - **lhotse**: Tools for handling speech data in machine learning projects. [[Github]](https://github.com/lhotse-speech/lhotse) [[Doc]](https://lhotse.readthedocs.io/en/latest/)
   - **~~snowfall(deprecated)~~** [[Github]](https://github.com/k2-fsa/snowfall)
-- **FunASR** [[Github]](https://github.com/alibaba-damo-academy/FunASR) [[Doc]](https://alibaba-damo-academy.github.io/FunASR/en/index.html)
+- **FunASR** [[Github]](https://github.com/modelscope/FunASR) [[Doc]](https://alibaba-damo-academy.github.io/FunASR/en/index.html)
   - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models.
   - Gao, Z., Li, Z., Wang, J., Luo, H., Shi, X., Chen, M., ... & Zhang, S. (2023). [FunASR: A Fundamental End-to-End Speech Recognition Toolkit](https://arxiv.org/abs/2305.11013). *arXiv preprint arXiv:2305.11013*.
 - **espnet/espnet2** [[Github]](https://github.com/espnet/espnet)
