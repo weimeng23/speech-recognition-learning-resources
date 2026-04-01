@@ -49,6 +49,8 @@ A curated list of speech recognition learning resources, models, and toolkits. (
   [[Paper]](https://arxiv.org/abs/2601.21337) [[Code]](https://github.com/QwenLM/Qwen3-ASR)
 - **Fun-ASR** (2025) - End-to-end speech recognition large model by Tongyi Lab, providing Fun-ASR-Nano and Fun-ASR-MLT-Nano. Alibaba.
   [[Paper]](https://arxiv.org/abs/2509.12508) [[Code]](https://github.com/FunAudioLLM/Fun-ASR)
+- **Index-ASR** (2025) - LLM-based ASR with contextual hotword injection and noise robustness. Bilibili. (Not open-sourced)
+  [[Paper]](https://arxiv.org/abs/2601.00890)
 - **FireRedASR** (2025) - Open-source industrial-grade Mandarin speech recognition models. Xiaohongshu.
   [[Paper]](https://arxiv.org/abs/2501.14350) [[Code]](https://github.com/FireRedTeam/FireRedASR)
 - **Qwen2-Audio** (2024) - Large audio-language model supporting ASR, translation, and audio understanding. Alibaba.
